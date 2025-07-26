@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1350&q=80" alt="profile banner" width="100%" />
-</p>
-
 <h1 align="center">Hi there, I'm Priyank Sukhadiya! 👋</h1>
 <h3 align="center"><i>WordPress & HubSpot Developer | Code, Create, Connect!</i></h3>
 
