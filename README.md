@@ -37,8 +37,8 @@
 
 ## ✨ Featured Projects
 
-- [**Text2Img-Magic**](https://github.com/priyanksukhadiya/Text2Img-Magic)  
-  <sup><i>Turn text into stunning images with AI-powered magic!</i></sup>
+- [**Blog-Importer-for-HubSpot**](https://github.com/priyanksukhadiya/Blog-Importer-for-HubSpot)  
+  <sup><i>A comprehensive WordPress plugin that seamlessly imports and manages HubSpot blog posts in WordPress with automatic synchronization capabilities.!</i></sup>
 
 - [**User-Profile-Dashboard-Fields-Control**](https://github.com/priyanksukhadiya/User-Profile-Dashboard-Fields-Control)  
   <sup><i>Easily customize user profile fields in WordPress dashboards.</i></sup>
